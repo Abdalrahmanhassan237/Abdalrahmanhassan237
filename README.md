@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdalrahman Hassan</h1>
 <h3 align="center">I'm a Computer Science and Engineering Student on a continuous Machine Learning journey. Exploring Python and various ML algorithms (linear regression, decision trees,etc) to build practical solutions , I love to code , solve problems. Open to collaboration and feedback!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalrahmanhassan237" alt="abdalrahmanhassan237" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrahmanhassan237&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrahmanhassan237" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahmanhassan237&show_icons=true&locale=en&layout=compact" alt="abdalrahmanhassan237" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalrahmanhassan237&show_icons=true&locale=en" alt="abdalrahmanhassan237" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanhassan237&" alt="abdalrahmanhassan237" /></p>
