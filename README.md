@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdalrahman Hassan</h1>
 <h3 align="center">I'm a Computer Science and Engineering Student on a continuous Machine Learning journey. Exploring Python and various ML algorithms (linear regression, decision trees,etc) to build practical solutions , I love to code , solve problems. Open to collaboration and feedback!</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrahmanhassan237&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrahmanhassan237" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
