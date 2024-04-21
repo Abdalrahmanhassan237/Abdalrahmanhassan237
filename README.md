@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML & Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdalrahmanhassan237](https://github.com/Abdalrahmanhassan237)
+- 👨‍💻 All of my projects are available at [https://github.com/Abdalrahmanhassan237?tab=repositories](https://github.com/Abdalrahmanhassan237?tab=repositories)
 
 - 💬 Ask me about **any help**
 
@@ -17,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abdelrahman-hassan237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-hassan237" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdalrahmanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdalrahmanhassan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalrahmanhassan237&show_icons=true&locale=en" alt="abdalrahmanhassan237" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdAlrahman%20Hassan&theme=catppuccin-latte" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanhassan237&" alt="abdalrahmanhassan237" /></p>
