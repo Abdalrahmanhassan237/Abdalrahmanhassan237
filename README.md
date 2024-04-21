@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalrahmanhassan237&show_icons=true&locale=en" alt="abdalrahmanhassan237" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdAlrahman%20Hassan&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdAlrahman%20Hassan&theme=catppuccin-latte" alt="GitHub Streak" /></a>
