@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm a Computer Science and Engineering Student on a continuous Machine Learning journey. Exploring Python and various ML algorithms (linear regression, decision trees,etc) to build practical solutions , I love to code , solve problems. Open to collaboration and feedback!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrahmanhassan237&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrahmanhassan237" /> </p>
+
 
 ## About Me 🙋‍♂️
 
@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,python,anaconda,pycharm,vscode,bash,linux,qt,tensorflow,django,flask,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,vscode,anaconda,pycharm,bash,linux,tensorflow,opencv,qt,django,flask,cs,cpp" />
     
 </div>
 <br>
