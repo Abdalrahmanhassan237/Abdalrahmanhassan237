@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,python,vscode,anaconda,pycharm,bash,linux,tensorflow,opencv,qt,django,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,vscode,anaconda,pycharm,bash,linux,tensorflow,opencv,cs,cpp" />
     
 </div>
 <br>
