@@ -2,13 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdalrahman+Hassan!+😎;" />
 </div>
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3llbndueWtlZDRtM3NmNXYyeXdncTg5dXFva3FuMXpqYTRoOWN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3llbndueWtlZDRtM3NmNXYyeXdncTg5dXFva3FuMXpqYTRoOWN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="200" height="200" />
 </div>
 
 
+
 <h3 align="center">I'm a Computer Science and Engineering Student on a continuous Machine Learning journey. Exploring Python and various ML algorithms (linear regression, decision trees,etc) to build practical solutions , I love to code , solve problems. Open to collaboration and feedback!</h3>
-
-
 
 
 ## About Me 🙋‍♂️
@@ -17,11 +16,15 @@
 
 - 👯 I’m looking to collaborate on **ML & Data Science Projects**
 
+- 🕸️ My Personal Website [My Portfolio](https://abdalrahmanhassan.carrd.co/) 
+
 - 👨‍💻 All of my projects are available at **[My Repositary](https://github.com/Abdalrahmanhassan237?tab=repositories)**
 
-- 💬 Ask me about **any help**
+- 💬 Ask me about **any help** 
 
 - 📫 You can shoot me an email at **abdalrahman.hassan237@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uOaEhD6kdu4d24zQgBoBrhjZshA3gyxV/view?usp=sharing) 
 
 - ⚡ Fun fact **Food & Barcelona are strong reasons to smile**
 
