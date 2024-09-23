@@ -1,9 +1,13 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdalrahman+Hassan!+😎;" />
 </div>
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3llbndueWtlZDRtM3NmNXYyeXdncTg5dXFva3FuMXpqYTRoOWN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" />
+</div>
 
 
 <h3 align="center">I'm a Computer Science and Engineering Student on a continuous Machine Learning journey. Exploring Python and various ML algorithms (linear regression, decision trees,etc) to build practical solutions , I love to code , solve problems. Open to collaboration and feedback!</h3>
+
 
 
 
